@@ -77,6 +77,7 @@ public class HelloSelenium {
             // 원래 탭으로 돌아오기
             driver.switchTo().window(originalWindow);
 
+            System.out.println("test");
         }
 
 
